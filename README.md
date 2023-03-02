@@ -1,9 +1,7 @@
-### Hi there 👋
-  👨💻 
-#### Junior full-stack web developer 💻 currently ** actively looking ** for a job♨️
+### Hi there I am Leandro Franco👋
 
-### Hello, I am Jonathan Poblet 👋
-#### Frontend Developer  💻 
+#### Junior Frontend Developer 💻 currently ** actively looking ** for a job♨️
+
 
 
 
@@ -28,6 +26,9 @@ ___
 
 ____
 
+  
+#### 🌱 I’m currently learning 
+  
 
                                                                                                                                                   
                                                                                                                                                       
