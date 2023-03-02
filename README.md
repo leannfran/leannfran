@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-#### My name is Lean and i am a Front End Dev whit React
+#### My name is Lean and i am a student for a Front end dev whit React
 
+#####
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CD6799?style=flat-square&logo=sass&logoColor=white" />
+ </p>
 <!--
 **leannfran/leannfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
