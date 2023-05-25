@@ -10,7 +10,8 @@
 
 - Developing web applications
 - Improving my skills as a Frontend Developer
-- Studying backend programming in the stack MERN
+- Woriking on my Agency
+
 
 ___                                                                                                                                                                                                                                                                                                     
 #### ¿Hablamos?☕️
