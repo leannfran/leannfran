@@ -1,6 +1,6 @@
 ### Hi there I am Leandro Franco👋
 
-#### Junior Frontend Developer 💻 currently **actively looking** for a job♨️
+#### Junior Frontend Developer 💻 currently working in my agency♨️
 
 
 
